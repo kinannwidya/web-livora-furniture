@@ -53,11 +53,10 @@ This project demonstrates **real-world skills** in state management, authenticat
 ## 📸 Preview
 
 ### Customer Store
-![Customer Page](./frontend/src/assets/Livora Customer Store.png)  
+![Customer Page](./preview/Livora%20Customer%20Store.png)  
 
 ### Admin Dashboard
-![Admin Panel](./frontend/src/assets/Livora Admin Dashboard.png)  
-
+![Admin Panel](./preview/Livora%20Admin%20Dashboard.png)
 
 ## 🎥 Demo Video
 
