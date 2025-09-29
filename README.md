@@ -31,7 +31,7 @@ This project demonstrates **real-world skills** in state management, authenticat
 
 ### Frontend
 - **React + TypeScript**
-- **React Router v6** (nested & protected routes, navigation guard)
+- **React Router v7** (nested & protected routes, navigation guard)
 - **TanStack React Query** (server state, caching, stale-time)
 - **DnD Kit** (drag-and-drop admin layout)
 - **Axios** (JWT interceptor, dynamic base URL)
